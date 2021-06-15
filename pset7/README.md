@@ -8,5 +8,5 @@ A small web application for stock trading with several features:
 * password change/restore
 
 ### Screenshots:
-<img src="/readme/screen1.jpg" alt="Screenshot 1" width="400"/>
-<img src="/readme/screen2.jpg" alt="Screenshot 2" width="400"/>
+<img src="/pset7/readme/screen1.jpg" alt="Screenshot 1" width="400"/>
+<img src="/pset7/readme/screen2.jpg" alt="Screenshot 2" width="400"/>
