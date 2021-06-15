@@ -1,0 +1,1 @@
+<a href="change_password.php">Change password</a>
