@@ -8,6 +8,6 @@
 </form>
 <div>
     <a href="register.php">register</a> for an account
-    <br>
+    <br/>
     or <a href="restore_password.php">restore</a> password
 </div>
